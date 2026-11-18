@@ -52,7 +52,7 @@ version = "2.5.0"
 
 [[package]]
 name = "splb"
-version = "0.1.0"
+version = "0.13.0"
 dependencies = [
  "flate2",
  "lbr1_price",
